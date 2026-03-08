@@ -95,7 +95,7 @@ export default function HomePage() {
                 "Best tire service in Joliet! Quick, professional, and fair pricing. Highly recommend.",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-young-business-man-posing-with-crossed-arms_23-2149206526.jpg",
+                "http://img.b2bpic.net/free-photo/portrait-young-business-man-posing-with-crossed-arms_23-2149206526.jpg?_wi=1",
               imageAlt: "Mike Thompson",
             },
             {
@@ -105,7 +105,7 @@ export default function HomePage() {
                 "Sammy's has been servicing our fleet vehicles for 3 years. Never disappointed.",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-yellow-jacket_23-2149020781.jpg",
+                "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-yellow-jacket_23-2149020781.jpg?_wi=1",
               imageAlt: "Jennifer Martinez",
             },
             {
@@ -115,7 +115,7 @@ export default function HomePage() {
                 "Fixed my flat tire in 30 minutes. Great staff and reasonable prices!",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/smiling-hispanic-female-executive-wearing-eyeglasses-standing-studio_662251-664.jpg",
+                "http://img.b2bpic.net/free-photo/smiling-hispanic-female-executive-wearing-eyeglasses-standing-studio_662251-664.jpg?_wi=1",
               imageAlt: "David Kim",
             },
             {
@@ -125,7 +125,7 @@ export default function HomePage() {
                 "Friendly service and they explained everything clearly. Will definitely return.",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-positive-young-woman-wearing-blouse_1262-2298.jpg",
+                "http://img.b2bpic.net/free-photo/portrait-positive-young-woman-wearing-blouse_1262-2298.jpg?_wi=1",
               imageAlt: "Sarah Johnson",
             },
           ]}
@@ -214,7 +214,7 @@ export default function HomePage() {
                 "Best tire service in Joliet! Quick, professional, and fair pricing. Sammy's fixed my flat tire in less than 30 minutes.",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-young-business-man-posing-with-crossed-arms_23-2149206526.jpg",
+                "http://img.b2bpic.net/free-photo/portrait-young-business-man-posing-with-crossed-arms_23-2149206526.jpg?_wi=2",
               imageAlt: "Mike Thompson",
             },
             {
@@ -225,7 +225,7 @@ export default function HomePage() {
                 "Sammy's has been servicing our fleet vehicles for 3 years. Never disappointed. Reliable service, fair pricing, and great customer care.",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-yellow-jacket_23-2149020781.jpg",
+                "http://img.b2bpic.net/free-photo/portrait-beautiful-woman-posing-yellow-jacket_23-2149020781.jpg?_wi=2",
               imageAlt: "Jennifer Martinez",
             },
             {
@@ -236,7 +236,7 @@ export default function HomePage() {
                 "Fixed my flat tire in 30 minutes. Great staff, reasonable prices, and they explained everything clearly. Highly recommend!",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/smiling-hispanic-female-executive-wearing-eyeglasses-standing-studio_662251-664.jpg",
+                "http://img.b2bpic.net/free-photo/smiling-hispanic-female-executive-wearing-eyeglasses-standing-studio_662251-664.jpg?_wi=2",
               imageAlt: "David Kim",
             },
             {
@@ -247,7 +247,7 @@ export default function HomePage() {
                 "Friendly service from start to finish. They explained everything and didn't try to upsell me unnecessary services. Will definitely return.",
               rating: 5,
               imageSrc:
-                "http://img.b2bpic.net/free-photo/portrait-positive-young-woman-wearing-blouse_1262-2298.jpg",
+                "http://img.b2bpic.net/free-photo/portrait-positive-young-woman-wearing-blouse_1262-2298.jpg?_wi=2",
               imageAlt: "Sarah Johnson",
             },
             {
@@ -315,7 +315,7 @@ export default function HomePage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/standing-jacket-professional-repairman-arm_1134-796.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/standing-jacket-professional-repairman-arm_1134-796.jpg?_wi=1"
           imageAlt="Professional tire service background"
           logoText="Sammy's Tire Service"
           copyrightText="© 2025 Sammy's Tire Service. All rights reserved. Family-owned and operated in Joliet, IL."
