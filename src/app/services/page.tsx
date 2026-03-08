@@ -196,7 +196,7 @@ export default function ServicesPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/standing-jacket-professional-repairman-arm_1134-796.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/standing-jacket-professional-repairman-arm_1134-796.jpg?_wi=2"
           imageAlt="Professional tire service background"
           logoText="Sammy's Tire Service"
           copyrightText="© 2025 Sammy's Tire Service. All rights reserved. Family-owned and operated in Joliet, IL."
